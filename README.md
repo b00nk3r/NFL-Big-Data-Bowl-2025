@@ -1,4 +1,4 @@
-Code for the  **<a href="https://www.kaggle.com/competitions/nfl-big-data-bowl-2025/">NFL Big Data Bowl 2025</a>** submission **Clustering Pre-snap Movements and Predicting Routes**
+Code for the  **<a href="https://www.kaggle.com/competitions/nfl-big-data-bowl-2025/">NFL Big Data Bowl 2025</a>** submission **<a href="https://www.kaggle.com/code/romanbukreev/clustering-pre-snap-movements-and-predicting-route">Clustering Pre-snap Movements and Predicting Routes</a>**
 
 # Intro
 
